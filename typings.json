@@ -1,0 +1,13 @@
+{
+  "name": "koa-router",
+  "main": "lib/router.d.ts",
+  "homepage": "https://github.com/alexmingoia/koa-router",
+  "version": "7.0.1",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160825160117"
+  },
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160723033700",
+    "koa": "registry:npm/koa#2.0.0+20160903085952"
+  }
+}
