@@ -19,8 +19,11 @@ test('simple test', async (t) => {
     router
         .param('user', (id, ctx, next) => {
             ctx.user = { name: 'jkey' };
-            if (!id) return ctx.status = 404;
-            return next();
+            if (!id) {
+                return ctx.status = 404;
+            } else {
+                return next();
+            }
         })
         .get('/users/:user', ctx => {
             ctx.body = ctx.user;
