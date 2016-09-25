@@ -1,4 +1,4 @@
-# Typed Koa Router  [![Build Status](https://travis-ci.org/it@github.com:jstype/typed-npm-koa-router.svg?branch=master)](https://travis-ci.org/it@github.com:jstype/typed-npm-koa-router)
+# Typed Koa Router  [![Build Status](https://travis-ci.org/types/npm-koa-router.svg?branch=master)](https://travis-ci.org/types/npm-koa-router)
 
 
 The type definition for [`koa-router`](https://github.com/alexmingoia/koa-router.git)
