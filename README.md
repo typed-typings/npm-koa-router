@@ -1,5 +1,7 @@
 # Typed Koa Router  [![Build Status](https://travis-ci.org/types/npm-koa-router.svg?branch=master)](https://travis-ci.org/types/npm-koa-router)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-koa-router.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`koa-router`](https://github.com/alexmingoia/koa-router.git)
 
