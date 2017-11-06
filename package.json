@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "blue-tape": "^1.0.0",
-    "koa": "^2.0.0-alpha.6",
+    "koa": "^2.4.1",
     "koa-router": "7.2.1",
     "onchange": "^3.0.0",
     "tap-spec": "^4.1.1",
